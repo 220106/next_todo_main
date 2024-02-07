@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from "react";
 import ClickButton from "@/app/components/ClickButton";
 import Input from "@/app/components/Input";
